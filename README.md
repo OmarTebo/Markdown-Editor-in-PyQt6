@@ -44,6 +44,12 @@ This repository contains:
 
 ![Structure Diagram](Structure%20Diagram.png)
 
+## 📸 Demo Screenshot
+
+Here’s a look at the Markdown Editor in use with this `README.md` file loaded:
+
+![Demo Screenshot](screenshot.png)
+
 ## 🚀 Getting Started
 
 1. Clone the repository:
